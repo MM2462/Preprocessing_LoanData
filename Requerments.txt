@@ -1,2 +1,4 @@
-Python 
+Python 3.12.4
 package => Numpy 
+jypter notebook or any editor suitable for Python
+
