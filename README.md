@@ -1,11 +1,11 @@
-# idea preprocessing the loan datasets using numpy package .
+#  preprocessing the loan datasets  .
 proplem : how to clean and preprocess the values (datasets) and prepare it to hand it to the data scientist
 soution: change any text columns into  numbers and handling missing values using staticstics techniques (min , max , mean) 
 
 ## Dataset
  sample from larger data that belong to affiliate bank based on the USA
 
-# project structure 
+## project structure 
 ├── data/                   # Raw dataset and processed data
 ├── notebooks/              # Jupyter notebooks for analysis
 ├── src/                    # Source code for data preprocessing and analysis
