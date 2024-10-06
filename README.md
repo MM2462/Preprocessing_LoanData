@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or suggestions, feel free to reach out:
 
-Email: your.af9652725@gmail.com
+Email:af9652725@gmail.com
