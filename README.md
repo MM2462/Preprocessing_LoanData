@@ -2,8 +2,17 @@
 proplem : how to clean and preprocess the values (datasets) and prepare it to hand it to the data scientist
 soution: change any text columns into  numbers and handling missing values using staticstics techniques (min , max , mean) 
 
-## Dataset
- sample from larger data that belong to affiliate bank based on the USA
+## Dataset informations
+sample from larger data that belong to affiliate bank based on the USA 
+The dataset contains information about loans, including:
+
+Loan ID
+Loan amount
+Interest rate
+Borrower details
+Loan status
+and other financial indicators
+For more information on the dataset, see the data/ folder in this repository.
 
 ## project structure 
 ├── data/                   # Raw dataset and processed data
